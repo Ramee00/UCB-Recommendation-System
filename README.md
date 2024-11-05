@@ -1,4 +1,4 @@
-# Contextual Multi-Armed Bandit for Article Recommendation
+# Contextual Multi-Armed Bandit for News Article Recommendation
 
 Implementing a Contextual Multi-Armed Bandit (MAB) solution using the Upper Confidence Bound (UCB) algorithm for recommending news articles. The objective is to maximize the average time users spend on recommended articles by leveraging user context to make recommendations.
 
